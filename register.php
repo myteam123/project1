@@ -4,7 +4,7 @@
 	<title>Register page</title>
 </head>
 <body>
-<form action="register.php" method="post">
+<form action="index.php" method="post">
 	<input type="text" name="name"><br>
 	<input type="submit" name="submit">
 </form>
